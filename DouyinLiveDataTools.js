@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         蝶云科技抖音直播数据助手
 // @namespace    http://tampermonkey.net/
-// @version      1.2.3
+// @version      1.0
 // @description  云星空页面增加数据填写的智能提示功能，提示框可自由调整大小并记忆，提升工作效率。
 // @author       左立方
 // @homepageURL  https://cbm.im/
