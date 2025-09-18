@@ -17,7 +17,6 @@
 
 (function() {
     'use strict';
-
     // --- 0. 环境与页面判断 ---
     const reviewPageURL = 'https://anchor.douyin.com/anchor/review';
     const crmPageURL = 'http://crm.ynjdy.com:8888/';
